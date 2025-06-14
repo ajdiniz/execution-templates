@@ -1,18 +1,18 @@
-# senhasegura Execution Templates
+# Segura® Platform Executions Templates
 
 ## Executions module
 
-senhasegura needs to perform asynchronous tasks on devices and third-parties solutions. They run with standard protocols or interfaces that senhasegura can, over its plugins, easily manage. The senhasegura Execution module will centralize all operations.
+Segura® Platform needs to perform asynchronous tasks on devices and third-parties solutions. They run with standard protocols or interfaces that Segura® can, over its plugins, easily manage. The Executions module will centralize all operations.
 
-Know more on [senhasegura Execution module](https://docs.senhasegura.io/docs/executions-introduction) documentation.
+Know more on [Segura® Executions module](https://docs.senhasegura.io/docs/executions) documentation.
 
-## Execution Templates
+## Executions Templates
 
-Templates are essential components of the senhasegura Execution module. They are the step-by-step instructions to achieve the operations such as password changes, enabling/disabling credentials, creating/deleting groups, system changes, DevOps operations, and more.
+Templates are essential components of the Executions module. They are the step-by-step instructions to achieve the operations such as password changes, enabling/disabling credentials, creating/deleting groups, system changes, DevOps operations, and more.
 
-# Build with us
+# Build With Us
 
-See how to [`create and share senhasegura templates`](CONTRIBUTE.md). 
+See how to [`create and share Segura® templates`](CONTRIBUTE.md). 
 
 # License
 
